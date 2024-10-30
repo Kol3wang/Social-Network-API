@@ -8,7 +8,6 @@ Table of Contents
 	•	Usage
 	•	Technologies Used
 	•	API Endpoints
-	•	Models
 	•	License
 
 Installation
@@ -30,7 +29,7 @@ Installation
 Usage
 
 1.	Run the server:
-	npm start
+	npm run dev
 
 2.	Test the API endpoints using a tool like Insomnia 
 
@@ -48,3 +47,9 @@ Users
 	•	GET /api/users: Retrieve all users.
 	•	GET /api/users/:id: Retrieve a single user by its ID.
 	•	POST /api/users: Create a new user.
+
+License
+
+This project is licensed under the MIT License.
+
+This README.md should provide a clear overview and guide for setting up, using, and testing the Social Network API. Adjust any sections as needed based on your specific project details.
